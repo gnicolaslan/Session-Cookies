@@ -6,3 +6,48 @@ body {
 a {
   color: #00B7FF;
 }
+
+.main__body{
+background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1920' height='1080' preserveAspectRatio='none' viewBox='0 0 1920 1080'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1253%26quot%3b)' fill='none'%3e%3crect width='1920' height='1080' x='0' y='0' fill='url(%23SvgjsLinearGradient1254)'%3e%3c/rect%3e%3cpath d='M-196.74 588.67 a220.76 220.76 0 1 0 441.52 0 a220.76 220.76 0 1 0 -441.52 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M160.05 69.89 a329.7 329.7 0 1 0 659.4 0 a329.7 329.7 0 1 0 -659.4 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M466.33 848.09 a330.95 330.95 0 1 0 661.9 0 a330.95 330.95 0 1 0 -661.9 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1141.22 439.13 a203.71 203.71 0 1 0 407.42 0 a203.71 203.71 0 1 0 -407.42 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1095.39 1017.28 a289.36 289.36 0 1 0 578.72 0 a289.36 289.36 0 1 0 -578.72 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M-12.23 1079.53 a286.43 286.43 0 1 0 572.86 0 a286.43 286.43 0 1 0 -572.86 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M623.84 12.63 a348.44 348.44 0 1 0 696.88 0 a348.44 348.44 0 1 0 -696.88 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1253'%3e%3crect width='1920' height='1080' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='89.06%25' y1='119.44%25' x2='10.94%25' y2='-19.44%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1254'%3e%3cstop stop-color='%230e2a47' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(0%2c 29%2c 66%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 2s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+}
+
+.main__register{
+  display: flex;
+  justify-content: center;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.pink{
+  background-color: pink;
+}
+
+.green{
+  background-color: green;
+}
+
+.orange{
+  background-color: orange;
+}
+
+.violet{
+  background-color: violet;
+}
+
+.black{
+  background-color: black;
+}
+
+.indigo{
+  background-color: indigo;
+}
+
+.red{
+  background-color: red;
+}
+
+.grey{
+  background-color: grey;
+}

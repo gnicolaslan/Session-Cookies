@@ -1,0 +1,23 @@
+[
+   {
+      "id": 1,
+      "name": "Gabriel Nicolas",
+      "email": "gabrielnicolas.dg@gmail.com",
+      "age": "27",
+      "color": "orange"
+   },
+   {
+      "id": 2,
+      "name": "Gabriel Nicolas",
+      "email": "gabrielnicolas2.dg@gmail.com",
+      "age": "19",
+      "color": "pink"
+   },
+   {
+      "id": 3,
+      "name": "Gabriel Nicolas",
+      "email": "asdasd@asdasd.com",
+      "age": "5",
+      "color": "green"
+   }
+]
